@@ -1,2 +1,0 @@
-# Versionamento
-atividade sobre versionamento

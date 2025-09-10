@@ -1,7 +1,7 @@
 const nAleatorio = Math.floor(Math.random() * 101);
 console.log(nAleatorio)
 
-var palpite, tentativas = 0
+var palpite, tentativas
 
 for (tentativas = 1; palpite !== nAleatorio; tentativas++) {
   palpite = parseInt(prompt("Digite um valor: "))

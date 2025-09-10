@@ -3,7 +3,7 @@ console.log(nAleatorio);
 
 var palpite, tentativas = 1
 
-palpite = parseInt(prompt(nAleatorio+"Digite um valor: "))
+palpite = parseInt(prompt("Digite um valor: "))
 
 while(palpite!=nAleatorio){
     if(palpite>nAleatorio){
